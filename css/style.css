@@ -1,5 +1,6 @@
 .container {
   text-align: center;
+  backgound-color: grey;
 }
 h4 {
   color: orange;
@@ -7,4 +8,8 @@ h4 {
 span {
   background-color: yellow;
   font-style: italic;
+}
+h1 {
+  background-color: orange;
+  font-family: sans-serif;
 }
